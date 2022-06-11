@@ -29,7 +29,7 @@
 - **Education:**
   - Saint-Peterburg State University, Faculty of applied mathematics and control processes (finished 4 courses)
   - hyperskill.org - profession "Python Developer"
-  - RedHAd Certified System Administrator
+  - RedHat Certified System Administrator
 - **English level:** 
   - B2 (live about 6 month in Egypt)
 - **Additional:** 
