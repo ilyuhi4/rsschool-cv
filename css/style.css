@@ -32,7 +32,7 @@ body{
 
 .nav-list {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
     list-style: none;
     background-color: darkseagreen;
@@ -43,7 +43,7 @@ body{
     padding: 0 20px;
     line-height: 50px;
 
-    color: black;
+    color: rgb(18, 48, 72);
     text-decoration: none;
 
     transition: 1s;
