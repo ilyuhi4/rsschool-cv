@@ -1,18 +1,22 @@
 /* * {
-    box-sizing: border-box;
-    border: 1px solid red;
+    /* box-sizing: border-box;
+    border: 1px solid red; */
+    margin: 5px;
   } */
   avatar {
     border-radius: 50%;
+    margin: 20px;
   }
 
 html {
-    scroll-behavior: smooth; 
+    scroll-behavior: smooth;
+    margin: 20px;
   } 
 
 
 body{
     background-color: lightgray;
+    
 
     font-family: 'Rubik', 
     sans-serif;
@@ -109,7 +113,7 @@ body{
         height: 80px;
         width: 50%;
         flex-direction: row;
-        border: 1px dashed blue;
+        /* border: 1px dashed blue; */
 }
 
 .two_columns_right{
