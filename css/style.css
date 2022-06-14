@@ -2,7 +2,7 @@
     box-sizing: border-box;
     border: 1px solid red;
   } */
-  img {
+  avatar {
     border-radius: 50%;
   }
 
@@ -95,24 +95,25 @@ body{
     align-items: center;
 }
 
-.profile{
+.two_columns{
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    box-sizing: border-box;
+    /* border: 1px dashed blue; */
 }
 
 .two_columns_left
     {
-        border: 1px dashed blue;
-        height: 100vh;
-        box-sizing: border-box;
+        height: 80px;
         width: 50%;
         flex-direction: row;
+        border: 1px dashed blue;
 }
 
 .two_columns_right{
     width: 50%;
-    height: 100vh;
-    text-align: left;
+    height: 80px;
+    align-items: flex-start;
 }
